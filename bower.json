@@ -1,0 +1,27 @@
+{
+  "name": "builder",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "magnific-popup": "^1.1.0",
+    "slick-carousel": "^1.7.0",
+    "malihu-custom-scrollbar-plugin": "^3.1.5",
+    "bootstrap-grid-only": "^1.0.0",
+    "jquery.maskedinput": "^1.4.1",
+    "jQuery-viewport-checker": "^1.8.7",
+    "scrollmagic": "^2.0.5",
+    "jquery-validation": "^1.16.0",
+    "normalize-css": "^7.0.0"
+  }
+}
